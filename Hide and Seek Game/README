@@ -1,0 +1,43 @@
+Hide and Seek game!
+
+Made by Kelly Chan and Anna-Kay Cressy
+ENCE260 Assignment
+2018
+
+Start up:
+
+Plug in two UC Fun Kits, type make program twice into the module.
+
+When the title screen comes up, whoever wants to be the hider presses the navswitch down.
+
+The blue light indicates who's turn it is, the hider always starts.
+
+
+LIGHTS ON DISPLAY:
+
+Your player character is the solid light.
+
+If you are the hider: the seeker character will blink fast. It will blink dimmer when the seeker is moving and brighter when he has locked in his position.
+If you are the seeker: the hider will blink slow. (if you can see him, conditions described below)
+
+FIRST MOVE - HIDER:
+
+You get the first move and on the first move you can move to any point on the board using the navswitch.
+Push down to lock in your position, this will begin the seekers turn.
+
+SEEKERS TURN:
+
+You cannot see anything but yourself. Move anywhere on the board and push the navswitch down to lock in your position and end your turn.
+Once you have ended your turn and if you are within 1 space of the hider's last position, their position will blink. (As a hint that the hider is close)
+
+
+HIDERS TURN AFTER FIRST ROUND:
+
+The seeker position will be shown. You can only move once, using the navswitch and only up/down/left/right. (Use that move wisely!)
+
+
+WINNING CONDITIONS:
+
+The seeker wins if he finds the hider, by being in the same position, within 6 rounds otherwise the hider wins!
+
+:) = Win   :( = Lose
